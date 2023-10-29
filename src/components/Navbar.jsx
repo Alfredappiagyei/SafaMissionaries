@@ -15,7 +15,7 @@ function Navbar() {
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="#"><img src={logo} alt='logo' id='logo' /></a>
+                        <a class="navbar-brand" href="www.safa.com"><img src={logo} alt='logo' id='logo' /></a>
                     </div>
 
                     {/* <!-- Collect the nav links, forms, and other content for toggling --> */}
@@ -25,46 +25,46 @@ function Navbar() {
                         <ul class="nav navbar-nav navbar-right">
                            
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home</a>
+                                <a href="www.safa.com" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="#">Action</a></li>
-                                    <li><a href="#">Another action</a></li>
-                                    <li><a href="#">Something else here</a></li>
+                                    <li><a href="www.safa.com">Action</a></li>
+                                    <li><a href="www.safa.com">Another action</a></li>
+                                    <li><a href="www.safa.com">Something else here</a></li>
                                     <li role="separator" class="divider"></li>
-                                    <li><a href="#">Separated link</a></li>
+                                    <li><a href="www.safa.com">Separated link</a></li>
                                 </ul>
                             </li>
 
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Us</a>
+                                <a href="www.safa.com" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Us</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="#">Action</a></li>
-                                    <li><a href="#">Another action</a></li>
-                                    <li><a href="#">Something else here</a></li>
+                                    <li><a href="www.safa.com">Action</a></li>
+                                    <li><a href="www.safa.com">Another action</a></li>
+                                    <li><a href="www.safa.com">Something else here</a></li>
                                     <li role="separator" class="divider"></li>
-                                    <li><a href="#">Separated link</a></li>
+                                    <li><a href="www.safa.com">Separated link</a></li>
                                 </ul>
                             </li>
 
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Fixtures & Teams</a>
+                                <a href="www.safa.com" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Fixtures & Teams</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="#">Action</a></li>
-                                    <li><a href="#">Another action</a></li>
-                                    <li><a href="#">Something else here</a></li>
+                                    <li><a href="www.safa.com">Action</a></li>
+                                    <li><a href="www.safa.com">Another action</a></li>
+                                    <li><a href="www.safa.com">Something else here</a></li>
                                     <li role="separator" class="divider"></li>
-                                    <li><a href="#">Separated link</a></li>
+                                    <li><a href="www.safa.com">Separated link</a></li>
                                 </ul>
                             </li>
 
                             <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Gallery</a>
+                                <a href="www.safa.com" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Gallery</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="#">Action</a></li>
-                                    <li><a href="#">Another action</a></li>
-                                    <li><a href="#">Something else here</a></li>
+                                    <li><a href="www.safa.com">Action</a></li>
+                                    <li><a href="www.safa.com">Another action</a></li>
+                                    <li><a href="www.safa.com">Something else here</a></li>
                                     <li role="separator" class="divider"></li>
-                                    <li><a href="#">Separated link</a></li>
+                                    <li><a href="www.safa.com">Separated link</a></li>
                                 </ul>
                             </li>
 

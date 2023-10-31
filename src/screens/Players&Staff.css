@@ -1,0 +1,23 @@
+
+
+#headlineheaderbadge {
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: #fff;
+    display: inline-block;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #000;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+ 
+
+.sliderrow {
+    padding: 20px 0px;
+    background-color: #F5F5F5;
+}

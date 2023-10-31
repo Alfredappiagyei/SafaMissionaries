@@ -1,5 +1,6 @@
 import './Navbar.css';
 import logo from "../assets/images/logo.jfif"
+import { Link } from 'react-router-dom'; 
 
 
 function Navbar() {
@@ -25,35 +26,24 @@ function Navbar() {
                         <ul class="nav navbar-nav navbar-right">
                            
                             <li class="dropdown">
-                                <a href="www.safa.com" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Home</a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="www.safa.com">Action</a></li>
-                                    <li><a href="www.safa.com">Another action</a></li>
-                                    <li><a href="www.safa.com">Something else here</a></li>
-                                    <li role="separator" class="divider"></li>
-                                    <li><a href="www.safa.com">Separated link</a></li>
-                                </ul>
+                                <Link to="/">Home</Link>
+                                
                             </li>
 
                             <li class="dropdown">
                                 <a href="www.safa.com" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Us</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="www.safa.com">Action</a></li>
-                                    <li><a href="www.safa.com">Another action</a></li>
-                                    <li><a href="www.safa.com">Something else here</a></li>
-                                    <li role="separator" class="divider"></li>
-                                    <li><a href="www.safa.com">Separated link</a></li>
+                                    <li><Link to="/About">About Us </Link></li>
+                                    
                                 </ul>
                             </li>
 
                             <li class="dropdown">
                                 <a href="www.safa.com" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Fixtures & Teams</a>
                                 <ul class="dropdown-menu">
-                                    <li><a href="www.safa.com">Action</a></li>
-                                    <li><a href="www.safa.com">Another action</a></li>
-                                    <li><a href="www.safa.com">Something else here</a></li>
-                                    <li role="separator" class="divider"></li>
-                                    <li><a href="www.safa.com">Separated link</a></li>
+                                    <li><Link to="/fixtures"> Fixtures</Link></li>
+                                    <li><Link to="/PlayersandStaff">Players & Staff</Link></li>
+                                    
                                 </ul>
                             </li>
 

@@ -2,6 +2,7 @@
     background-color: #ADF702;
     border: none;
     border-radius: 0px;
+    z-index: 2 !important;
 
 }
 .navbar-brand {

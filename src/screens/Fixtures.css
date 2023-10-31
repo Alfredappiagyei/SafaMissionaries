@@ -1,0 +1,69 @@
+.fictures {
+    margin: 0px;
+    padding: 0px;
+}
+
+.fictures  .row{
+     margin-left: 100px;
+     margin-right: 100px;
+     min-height: 180px;
+     background-color: #ADF702;
+    
+}
+
+.fictures  .row .fixturecard{
+    
+    min-height: 180px;
+    background-color: #ADF702;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid #000;
+}
+
+#team_A_logo {
+    height: 60px;
+    width: 60px;
+}
+#team_B_logo {
+    height: 60px;
+    width: 60px;
+}
+
+.fixturecard p {
+     font-size: 25px;
+}
+
+
+@media screen and (max-width: 600px) {
+
+    .fictures  .row{
+        margin-left: 0px;
+        margin-right: 0px;
+        min-height: 80px;
+        background-color: aqua;
+        margin-top: 20px;
+       
+   }
+
+   .fictures  .row .fixturecard{
+    
+    min-height: 80px;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#team_A_logo {
+    height: 50px;
+    width: 50px;
+    
+}
+#team_B_logo {
+    height: 50px;
+    width: 50px;
+   
+}
+
+}

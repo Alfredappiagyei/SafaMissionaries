@@ -2,6 +2,7 @@
 import './App.css';
 import About from './screens/About';
 import Fixtures from './screens/Fixtures';
+import GalleryPage from './screens/GalleryPage';
 import Homepage from './screens/HomePage';
 import PlayerAnaStaff from './screens/Players&Staff';
 // import Navbar from './components/Navbar';
@@ -18,6 +19,8 @@ function App() {
       <Route exact path='About' element={< About />} />
       <Route exact path='fixtures' element={< Fixtures />} />
       <Route exact path='PlayersandStaff' element={< PlayerAnaStaff />} />
+      <Route exact path='Gallery' element={< GalleryPage />} />
+
 
       </Routes>
 

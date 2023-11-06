@@ -48,14 +48,8 @@ function Navbar() {
                             </li>
 
                             <li class="dropdown">
-                                <a href="www.safa.com" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Gallery</a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="www.safa.com">Action</a></li>
-                                    <li><a href="www.safa.com">Another action</a></li>
-                                    <li><a href="www.safa.com">Something else here</a></li>
-                                    <li role="separator" class="divider"></li>
-                                    <li><a href="www.safa.com">Separated link</a></li>
-                                </ul>
+                                <Link to="/Gallery">Gallery</Link>
+                                
                             </li>
 
                             

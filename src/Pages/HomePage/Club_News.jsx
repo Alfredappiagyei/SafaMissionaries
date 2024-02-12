@@ -6,11 +6,11 @@ export default function ClubNews() {
         <div className="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8 bg-white dark:bg-gray-900 flex flex-col  md:flex-row">
             <div class="md:flex-6 flex-col px-8 bg-white">
 
-                <a href="#">
+                <a href="https://safa.com/">
                     <img src={Transfer} alt="Transfer image" className='md:w-[1400px]' />
                 </a>
                 <div class="p-5">
-                    <a href="#">
+                    <a href="https://safa.com/">
                         <h5 class="mb-2 md:text-3xl font-bold tracking-tight text-[#141414] dark:text-white">Noteworthy technology acquisitions 2021</h5>
                     </a>
                     <p class="mb-3  font-[16px] text-[#141414] dark:text-gray-400">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</p>
@@ -20,7 +20,7 @@ export default function ClubNews() {
             </div>
             <div class="md:flex-6 flex-col px-8 py-0 bg-white">
 
-                <a href="#" class="flex w-full  md:w-[600px] md:h-[170px] items-center bg-white flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+                <a href="https://safa.com/" class="flex w-full  md:w-[600px] md:h-[170px] items-center bg-white flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
                      
                      <img class=" h-96 sm:h-24 w-44 md:h-auto md:w-48 " src={Transfer} alt="" />
                      <div class="flex flex-col justify-between p-4 leading-normal">
@@ -28,7 +28,7 @@ export default function ClubNews() {
                     </div>  
                 </a>
 
-                <a href="#" class="flex w-full  md:w-[600px] md:h-[170px] items-center bg-white flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+                <a href="https://safa.com/" class="flex w-full  md:w-[600px] md:h-[170px] items-center bg-white flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
                      
                      <img class=" h-96 sm:h-24 w-44 md:h-auto md:w-48 " src={Transfer} alt="" />
                      <div class="flex flex-col justify-between p-4 leading-normal">
@@ -36,7 +36,7 @@ export default function ClubNews() {
                     </div>  
                 </a>
 
-                <a href="#" class="flex w-full  md:w-[600px] md:h-[170px] items-center bg-white flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+                <a href="https://safa.com/" class="flex w-full  md:w-[600px] md:h-[170px] items-center bg-white flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
                      
                      <img class=" h-96 sm:h-24 w-44 md:h-auto md:w-48 " src={Transfer} alt="" />
                      <div class="flex flex-col justify-between p-4 leading-normal">
@@ -44,7 +44,7 @@ export default function ClubNews() {
                     </div>  
                 </a>
 
-                <a href="#" class="flex w-full  md:w-[600px] md:h-[170px] items-center bg-white flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
+                <a href="https://safa.com/" class="flex w-full  md:w-[600px] md:h-[170px] items-center bg-white flex-row md:max-w-xl hover:bg-gray-100 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-700">
                      
                      <img class=" h-96 sm:h-24 w-44 md:h-auto md:w-48 " src={Transfer} alt="" />
                      <div class="flex flex-col justify-between p-4 leading-normal">

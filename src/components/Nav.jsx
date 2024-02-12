@@ -12,7 +12,7 @@
  
     <nav className="bg-white dark:bg-gray-900 fixed  w-full m-0 z-20 top-0 start-0  ">
     <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
-      <a href="https://flowbite.com/" className="flex items-center space-x-3 rtl:space-x-reverse">
+      <a href="https://safa.com/" className="flex items-center space-x-3 rtl:space-x-reverse">
         <img src={Logo} className="h-20  rounded-full sm:hidden md:block" alt="Flowbite Logo"/>
         <span className="self-center text-2xl sm:hidden md:block font-semibold whitespace-nowrap dark:text-white">Safamissionaries</span>
         <span className="self-center text-2xl sm:block md:hidden font-fontFamily-serif whitespace-nowrap text-ModerateGreen-100">SMFC</span>
@@ -34,16 +34,16 @@
       <div className={`items-center md:order-2 justify-between w-full md:flex   md:w-auto   ${isOpen ? '' : 'hidden'}`} id="navbar-sticky">
         <ul className="flex flex-col p-4 md:p-0 mt-4 font-medium border  rounded-lg  md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0 sm:border-0 md:bg-white md:flex">
           <li >
-          <a href="#" className="block font-semibold py-2 px-3 text-base md:text-ModerateGreen-100 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-gray-700 md:p-0 md:dark:hover:text-ModerateGreen-100 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">NEWS</a>
+          <a href="https://safa.com/" className="block font-semibold py-2 px-3 text-base md:text-ModerateGreen-100 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-gray-700 md:p-0 md:dark:hover:text-ModerateGreen-100 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">NEWS</a>
           </li>
           <li>
-            <a href="#" className="block font-semibold py-2 px-3 text-base md:text-ModerateGreen-100 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-gray-700 md:p-0 md:dark:hover:text-ModerateGreen-100 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">FIXTURES&TEAMS</a>
+            <a href="https://safa.com/" className="block font-semibold py-2 px-3 text-base md:text-ModerateGreen-100 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-gray-700 md:p-0 md:dark:hover:text-ModerateGreen-100 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">FIXTURES&TEAMS</a>
           </li>
           <li>
-            <a href="#" className="block font-semibold py-2 px-3 text-base md:text-ModerateGreen-100 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-gray-700 md:p-0 md:dark:hover:text-ModerateGreen-100 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">ABOUT US</a>
+            <a href="https://safa.com/" className="block font-semibold py-2 px-3 text-base md:text-ModerateGreen-100 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-gray-700 md:p-0 md:dark:hover:text-ModerateGreen-100 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">ABOUT US</a>
           </li>
           <li>
-            <a href="#" className="block font-semibold py-2 px-3 text-base md:text-ModerateGreen-100 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-gray-700 md:p-0 md:dark:hover:text-ModerateGreen-100 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">CONTACT US</a>
+            <a href="https://safa.com/" className="block font-semibold py-2 px-3 text-base md:text-ModerateGreen-100 rounded hover:bg-gray-100 md:hover:bg-transparent md:hover:text-gray-700 md:p-0 md:dark:hover:text-ModerateGreen-100 dark:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent dark:border-gray-700">CONTACT US</a>
           </li>
         </ul>
       </div>

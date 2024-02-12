@@ -14,7 +14,7 @@ export default function Index() {
 
             <section className="bg-white dark:bg-gray-900 mt-28">
                 <div className=" mx-auto max-w-screen-xl flex justify-center items-cente">
-                    <img src={Hero} className="object-cover md:h-[533px] md:w-[1150px] h-[269.79px] w-full " />
+                    <img src={Hero} className="object-cover md:h-[533px] md:w-[1150px] h-[269.79px] w-full " alt='SAFA MISSIONARIES' />
 
                 </div>
 
@@ -36,11 +36,11 @@ export default function Index() {
                 <div className="flex-1   p-0 md:p-3">
 
                     <div class="w-full bg-white  border-0  dark:bg-gray-800 dark:border-gray-700">
-                        <a href="#">
-                            <img   src={Hero} alt="" />
+                        <a href="https://safa.com/">
+                            <img   src={Hero} alt="SAFA MISSIONARIES" />
                         </a>
                         <div class="p-5">
-                            <a href="#">
+                            <a href="https://safa.com/">
                                 <h5 class="mb-2 text-[16px] font-semibold  tracking-tight text-[#141414] dark:text-white">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</h5>
                             </a>        
                         </div>
@@ -49,11 +49,11 @@ export default function Index() {
                 </div>
                 <div className="flex-1   p-0 md:p-3">
                 <div class="w-full bg-white  border-0    dark:bg-gray-800 dark:border-gray-700">
-                        <a href="#">
+                        <a href="https://safa.com/">
                             <img  src={Hero} alt="" />
                         </a>
                         <div class="p-5">
-                            <a href="#">
+                            <a href="https://safa.com/">
                                 <h5 class="mb-2 text-[16px] font-semibold  tracking-tight text-[#141414] dark:text-white">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</h5>
                             </a>        
                         </div>
@@ -61,11 +61,11 @@ export default function Index() {
                 </div>
                 <div className="flex-1  p-0 md:p-3">
                 <div class="w-full bg-white  border-0   dark:bg-gray-800 dark:border-gray-700">
-                        <a href="#">
+                        <a href="https://safa.com/">
                             <img   src={Hero} alt="" />
                         </a>
                         <div class="p-5">
-                            <a href="#">
+                            <a href="https://safa.com/">
                                 <h5 class="mb-2 text-[16px] font-semibold  tracking-tight text-[#141414] dark:text-white">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</h5>
                             </a>        
                         </div>
@@ -73,11 +73,11 @@ export default function Index() {
                 </div>
                 <div className="md:flex-1 p-0 md:p-3">
                 <div class="w-full bg-white border-0  dark:bg-gray-800 dark:border-gray-700">
-                        <a href="#">
-                            <img  src={Hero} alt="" />
+                        <a href="https://safa.com/">
+                            <img  src={Hero} alt="SAFA MISSIONARIES" />
                         </a>
                         <div class="p-5">
-                            <a href="#">
+                            <a href="https://safa.com/">
                                 <h5 class="mb-2 text-[16px] font-semibold  tracking-tight text-[#141414] dark:text-white">Here are the biggest enterprise technology acquisitions of 2021 so far, in reverse chronological order.</h5>
                             </a>        
                         </div>

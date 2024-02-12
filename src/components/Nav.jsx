@@ -13,7 +13,7 @@
     <nav className="bg-white dark:bg-gray-900 fixed  w-full m-0 z-20 top-0 start-0  ">
     <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
       <a href="https://safa.com/" className="flex items-center space-x-3 rtl:space-x-reverse">
-        <img src={Logo} className="h-20  rounded-full sm:hidden md:block" alt="Flowbite Logo"/>
+        <img src={Logo} className="h-20  rounded-full sm:hidden md:block" alt="SAFAMISSIONARIES"/>
         <span className="self-center text-2xl sm:hidden md:block font-semibold whitespace-nowrap dark:text-white">Safamissionaries</span>
         <span className="self-center text-2xl sm:block md:hidden font-fontFamily-serif whitespace-nowrap text-ModerateGreen-100">SMFC</span>
       </a>

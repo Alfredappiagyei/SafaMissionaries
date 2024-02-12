@@ -37,7 +37,7 @@ export default function Index() {
 
                     <div class="w-full bg-white  border-0  dark:bg-gray-800 dark:border-gray-700">
                         <a href="https://safa.com/">
-                            <img   src={Hero} alt="SAFA MISSIONARIES" />
+                            <img   src={Hero} alt="SAFAMISSIONARIES" />
                         </a>
                         <div class="p-5">
                             <a href="https://safa.com/">

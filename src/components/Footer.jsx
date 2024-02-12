@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React from 'react';
 import Logo from "../assets/images/logo.jfif"
 export default function Footer() {
   return (
@@ -8,7 +8,7 @@ export default function Footer() {
         <div class="md:flex md:justify-between">
           <div class="mb-6 md:mb-0">
             <a href="https://safa.com/" class="flex items-center">
-              <img src={Logo} class="h-8 me-3" alt="FlowBite Logo" />
+              <img src={Logo} class="h-8 me-3" alt="SAFAMISSIONARIES" />
               <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">SMFC</span>
             </a>
           </div>
